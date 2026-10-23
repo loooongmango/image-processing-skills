@@ -10,6 +10,7 @@
 | [photo-line-art-poster](skills/photo-line-art-poster/SKILL.md) | 将上传照片制作成上半实景、下半线稿延伸互动的竖版旅行海报 |
 | [photo-line-art-fade-poster](skills/photo-line-art-fade-poster/SKILL.md) | 将上传照片制作成 3:4 实景延伸线稿海报，中部背景色渐隐为近白纸面、无硬分界线 |
 | [rubber-stamp-travel-poster](skills/rubber-stamp-travel-poster/SKILL.md) | 将上传照片制作成上半原照、下半橡胶印章转译的 3:4 旅行记录海报 |
+| [shadow-puppet-poster](skills/shadow-puppet-poster/SKILL.md) | 将上传照片制作成上半原照、下半主体皮影戏偶在暖光宣纸幕布上演出的 3:4 海报 |
 
 ## 使用
 
