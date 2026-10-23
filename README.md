@@ -11,6 +11,7 @@
 | [photo-line-art-fade-poster](skills/photo-line-art-fade-poster/SKILL.md) | 将上传照片制作成 3:4 实景延伸线稿海报，中部背景色渐隐为近白纸面、无硬分界线 |
 | [rubber-stamp-travel-poster](skills/rubber-stamp-travel-poster/SKILL.md) | 将上传照片制作成上半原照、下半橡胶印章转译的 3:4 旅行记录海报 |
 | [shadow-puppet-poster](skills/shadow-puppet-poster/SKILL.md) | 将上传照片制作成上半原照、下半主体皮影戏偶在暖光宣纸幕布上演出的 3:4 海报 |
+| [second-world-poster](skills/second-world-poster/SKILL.md) | 将上传照片制作成上下连续场景海报：上半真实摄影、下半从原照结构生长出"第二世界" |
 
 ## 使用
 
