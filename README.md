@@ -7,6 +7,7 @@
 | Skill | 用途 |
 | --- | --- |
 | [travel-ticket-poster](skills/travel-ticket-poster/SKILL.md) | 将上传照片制作成上下等高的竖版旅行纪念票根海报 |
+| [photo-line-art-poster](skills/photo-line-art-poster/SKILL.md) | 将上传照片制作成上半实景、下半线稿延伸互动的竖版旅行海报 |
 
 ## 使用
 
