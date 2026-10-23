@@ -8,6 +8,7 @@
 | --- | --- |
 | [travel-ticket-poster](skills/travel-ticket-poster/SKILL.md) | 将上传照片制作成上下等高的竖版旅行纪念票根海报 |
 | [photo-line-art-poster](skills/photo-line-art-poster/SKILL.md) | 将上传照片制作成上半实景、下半线稿延伸互动的竖版旅行海报 |
+| [photo-line-art-fade-poster](skills/photo-line-art-fade-poster/SKILL.md) | 将上传照片制作成 3:4 实景延伸线稿海报，中部背景色渐隐为近白纸面、无硬分界线 |
 
 ## 使用
 
